@@ -1,0 +1,25 @@
+<<$clear>>
+<cool>
+[1;32m                      ╔╦╗╔═╗╔╦╗╦ ╦╔═╗╔╦╗╔═╗[0m
+[1;32m                      ║║║║╣  ║ ╠═╣║ ║ ║║╚═╗[0m
+[1;32m                      ╩ ╩╚═╝ ╩ ╩ ╩╚═╝═╩╝╚═╝[0m
+
+[0;34m[ Layer 4 Methods ][0m
+  [0;36m|[0m [0;32mhome[0m              [[1;31mPROTECTED[0m] ICMP / Basic Data Slam
+  [0;36m|[0m [0;32mudp[0m               [[1;31mPROTECTED[0m] Raw UDP Packet Flood
+  [0;36m|[0m [0;32mspectrum[0m          [[1;31mPROTECTED[0m] Spectrum-Like UDP Layer Attack
+  [0;36m|[0m [0;32mtcp[0m               [[1;31mPROTECTED[0m] TCP ACK/SYN Flood Methods
+  [0;36m|[0m [0;32mssh[0m               [[1;31mPROTECTED[0m] Spoofed SSH Session Emulation
+  [0;36m|[0m [0;32movh[0m               [[1;31mPROTECTED[0m] OVH Bypass (Proxied or Raw)
+  [0;36m|[0m [0;32mdns[0m               [[1;31mPROTECTED[0m] DNS Amplification Techniques
+  [0;36m|[0m [0;32mntp[0m               [[1;31mPROTECTED[0m] NTP Reflection Based Flood
+  [0;36m|[0m [0;32mmixamp[0m            [[1;31mPROTECTED[0m] Mixed Amplified Protocols
+  [0;36m|[0m [0;32mneoprotect[0m        [[1;31mPROTECTED[0m] Bypass Layer on NeoProtect
+  [0;36m|[0m [0;32mdiscord[0m           [[0;35mDISCORD VC[0m] Targets Discord Voice Gateway
+  [0;36m|[0m [0;32mgame[0m              [[0;33mGAME SERVERS[0m] Game Query / Server Exploit
+
+[0;34m[ Layer 7 Methods ][0m
+  [0;36m|[0m [0;32mhttps[0m             [[1;31mPROTECTED[0m] Raw HTTP/2 Request Spamming
+  [0;36m|[0m [0;32mbrowser[0m           [[1;31mPROTECTED[0m] Chrome-Headless JS Flooder [1;36mV[0m
+  [0;36m|[0m [0;32mcloudflare[0m        [[0;35mCLOUDFLARE[0m] Anti-UAM HTTP/2 Attack Suite
+  [0;36m|[0m [0;32mtls[0m               [[1;31mPROTECTED[0m] TLSv1.3 Request Splitting Flood
